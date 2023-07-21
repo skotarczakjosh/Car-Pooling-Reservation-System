@@ -1,0 +1,58 @@
+Purple Pickup
+-----------------
+Driver Seat: Pat Cooper
+Front Seat: Unassigned
+
+Green Pickup
+-----------------
+Driver Seat: Jane Cox
+Front Seat: Randy Carter
+
+Black Pickup
+-----------------
+Driver Seat: Tim Taylor
+Front Seat: Unassigned
+
+Red Compact
+-----------------
+Driver Seat: Ben Butler
+Front Seat: Unassigned
+Back Right: Adam Jenkins
+
+Blue Compact
+-----------------
+Driver Seat: Art Campbell
+Front Seat: Unassigned
+Back Right: Unassigned
+
+Yellow Compact
+-----------------
+Driver Seat: Ann Edwards
+Front Seat: Unassigned
+Back Right: Unassigned
+
+Blue Sedan
+-----------------
+Driver Seat: Grace Wan
+Front Seat: Unassigned
+Back Right: Unassigned
+Back Middle: Unassigned
+Back Left: Unassigned
+
+Black Sedan
+-----------------
+Driver Seat: Lary Adams
+Front Seat: Unassigned
+Back Right: Amy Bryant
+Back Middle: Unassigned
+Back Left: Unassigned
+
+Green Sedan
+-----------------
+Driver Seat: Jessie Quirk
+Front Seat: Unassigned
+Back Right: Unassigned
+Back Middle: Unassigned
+Back Left: Unassigned
+
+
